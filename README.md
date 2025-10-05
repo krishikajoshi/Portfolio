@@ -81,7 +81,7 @@ Vercel
 🧠 Folder Structure
 ├── index.html        # Main HTML structure
 ├── style.css         # Core styling and responsive design
-└── assets/           # (Optional) Images, icons, and other resources
+└── assets/           #  Images, icons, and other resources
 
 ✨ Customization Tips
 
